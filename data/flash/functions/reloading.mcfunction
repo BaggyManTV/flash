@@ -1,0 +1,2 @@
+##message
+tellraw @a ["",{"text":"Reloaded!","underlined":true,"color":"green"},{"text":"   Speedster Datapack","bold":true,"italic":true,"color":"red"},{"text":" "},{"text":"by","color":"yellow"},{"text":" "},{"text":"F","color":"dark_aqua"},{"text":"lubberschnub","color":"dark_gray"}]
