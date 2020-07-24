@@ -1,5 +1,4 @@
 ## suit on
-tag @s remove flashsuitoff
 
 ## mask
 execute unless entity @s[nbt={Inventory:[{Slot:103b}]}] run replaceitem entity @s armor.head minecraft:player_head{display:{Name:"{\"text\":\"The Flash's Mask\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"true\"}"},HideFlags:63,Enchantments:[{id:"minecraft:protection",lvl:3},{id:"minecraft:fire_protection",lvl:1},{id:"minecraft:blast_protection",lvl:2},{id:"minecraft:projectile_protection",lvl:3},{id:"minecraft:aqua_affinity",lvl:1}],SkullOwner:"The_Flash"} 1
